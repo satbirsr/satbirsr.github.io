@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Portfolio Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,600,700');
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item { margin-bottom: 25px; }
+
+footer { margin: 50px 0; }
+
+h1 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 700   
+}
+
+h2 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 600
+}
+
+h2.page-header{
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 300
+}
+
+.nav.navbar-nav.navbar-right li a { color: white; }
+
+/*#3CC47C, #33b638*/
+.navbar-inverse .navbar-brand, .fa { color: #3CC47C; }
+
+.jumbotron { background-color:#3CC47C !important; }
+
+.anchor { padding-top: 50px; }
+
+/*.navbar {
+    margin-bottom:0;
+  }
+  .jumbotron {
+      margin-bottom:0;
+    }*/
